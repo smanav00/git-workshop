@@ -1,2 +1,2 @@
 This is a testing file for the commmit commands.
-Here is the change.
+Here is the change and more change.
